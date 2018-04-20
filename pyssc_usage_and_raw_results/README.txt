@@ -1,0 +1,3 @@
+ 
+results_database - contains result database with structure description.
+job_submission_example - Since all big computation were done on Biosim cluster, the best way to ballance the load was to use Condor scheduler which requires jobs to be submitted in particular way. In job_submission_example you can find example of submission scripts|jobs for super-sparce data. Please not that this is just an example, not full list of jobs submitted. In real submission we used more CPUs and node restriction. Since there are 4 nodes and we were computing for 4 proteins it was naturally that each node got it's own protein which I am sure improved the performance because of locality.

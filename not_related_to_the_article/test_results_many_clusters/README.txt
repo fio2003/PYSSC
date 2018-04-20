@@ -1,0 +1,1 @@
+nmi_spec_mixed.ods is processed many_iterations.xls - it was an experiment that where we compared how number of clusters to find influences final result. Main reason is that in reality we do not know how many 'real' clusters are there in the data. The only way to know exact number of clusters is to model the data artificially (polymer models).

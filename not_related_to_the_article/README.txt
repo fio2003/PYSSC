@@ -1,0 +1,2 @@
+different_kmeans_implementations - comparison of different kmeans implementaion. As you may see scipy gives unimodal distribution while sklear - bimodal. However with some (small) probability scipy kmeans were giving very good results.
+Solvers_results.ods - shows why we used ECOS as a main solver.  Please note that I did this testing long time ago and it is very possible that most of the solvers significantly improved performance on similar to our problems. I did see improvement of several while was testing newer versions.

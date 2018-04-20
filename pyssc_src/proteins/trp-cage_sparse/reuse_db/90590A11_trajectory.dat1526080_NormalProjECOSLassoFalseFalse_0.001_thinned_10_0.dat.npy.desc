@@ -1,0 +1,10 @@
+This file contains description of experiment with hash: 90590A11_trajectory.dat1526080_NormalProjECOSLassoFalseFalse_0.001_thinned_10_0
+input file:	trajectory.dat
+input file size:	1526080
+projection:	NormalProj
+solver:	ECOS
+optm:	Lasso
+cst:	False
+lambda:	0.001
+matlab solver:	False
+file and description creation date:	PID_1939_K_60_k_50_1524253545.919408

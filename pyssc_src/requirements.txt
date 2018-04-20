@@ -1,0 +1,8 @@
+numpy
+scipy
+cvxpy
+colorama
+matplotlib
+pandas
+cython
+sparsesvd
